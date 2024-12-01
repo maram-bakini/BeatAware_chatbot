@@ -27,7 +27,7 @@ Heart disease is one of the leading causes of mortality worldwide. Many patients
 
 5. **Deployment**:  
    - The fine-tuned model was deployed on **Kaggle**, leveraging its robust AI hosting capabilities.
-   - A **Gradio** interface was developed to provide a seamless and intuitive chat experience for users.
+   - A **Streamlit** interface was developed to provide a seamless and intuitive chat experience for users.
 
 ---
 
@@ -41,11 +41,17 @@ Heart disease is one of the leading causes of mortality worldwide. Many patients
 ## Technologies Used
 - **Gemma 2**: Pre-trained language model.
 - **LoRA**: For efficient model fine-tuning.
-- **Gradio**: For user interface development.
+- **Streamlit**: For user interface development.
 - **Kaggle**: For model deployment.
 
 ---
 
+## How to Run the Application
+1. Access the chatbot on Kaggle (add a link here if applicable).
+2. Launch the Streamlit application to interact with the chatbot.
+3. Input symptoms to receive diagnostic insights and recommendations.
+
+---
 
 ## Credits
 - **Team BEATAWARE**  
