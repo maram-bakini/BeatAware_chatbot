@@ -46,12 +46,6 @@ Heart disease is one of the leading causes of mortality worldwide. Many patients
 
 ---
 
-## How to Run the Application
-1. Access the chatbot on Kaggle (add a link here if applicable).
-2. Interact with the Gradio-based user interface to input symptoms.
-3. Receive diagnostic insights and recommendations.
-
----
 
 ## Credits
 - **Team BEATAWARE**  
