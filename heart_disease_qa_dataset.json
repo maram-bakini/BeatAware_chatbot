@@ -1,0 +1,1082 @@
+[
+    {
+        "input": "I am a man of 70 years old. My chest pain type is asymptomatic, my resting blood pressure is 130 mm Hg, my cholesterol level is 322 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 109 bpm, I dont have exercise-induced angina, and my ST depression is 2.4. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 3, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a woman of 67 years old. My chest pain type is non-anginal pain, my resting blood pressure is 115 mm Hg, my cholesterol level is 564 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 160 bpm, I dont have exercise-induced angina, and my ST depression is 1.6. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 57 years old. My chest pain type is atypical angina, my resting blood pressure is 124 mm Hg, my cholesterol level is 261 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 141 bpm, I dont have exercise-induced angina, and my ST depression is 0.3. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 64 years old. My chest pain type is asymptomatic, my resting blood pressure is 128 mm Hg, my cholesterol level is 263 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 105 bpm, I have exercise-induced angina, and my ST depression is 0.2. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 74 years old. My chest pain type is atypical angina, my resting blood pressure is 120 mm Hg, my cholesterol level is 269 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 121 bpm, I have exercise-induced angina, and my ST depression is 0.2. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 65 years old. My chest pain type is asymptomatic, my resting blood pressure is 120 mm Hg, my cholesterol level is 177 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 140 bpm, I dont have exercise-induced angina, and my ST depression is 0.4. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 56 years old. My chest pain type is non-anginal pain, my resting blood pressure is 130 mm Hg, my cholesterol level is 256 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 142 bpm, I have exercise-induced angina, and my ST depression is 0.6. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is fixed defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 59 years old. My chest pain type is asymptomatic, my resting blood pressure is 110 mm Hg, my cholesterol level is 239 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 142 bpm, I have exercise-induced angina, and my ST depression is 1.2. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 60 years old. My chest pain type is asymptomatic, my resting blood pressure is 140 mm Hg, my cholesterol level is 293 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 170 bpm, I dont have exercise-induced angina, and my ST depression is 1.2. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a woman of 63 years old. My chest pain type is asymptomatic, my resting blood pressure is 150 mm Hg, my cholesterol level is 407 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 154 bpm, I dont have exercise-induced angina, and my ST depression is 4.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 3, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 59 years old. My chest pain type is asymptomatic, my resting blood pressure is 135 mm Hg, my cholesterol level is 234 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 161 bpm, I dont have exercise-induced angina, and my ST depression is 0.5. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 53 years old. My chest pain type is asymptomatic, my resting blood pressure is 142 mm Hg, my cholesterol level is 226 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 111 bpm, I have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 44 years old. My chest pain type is non-anginal pain, my resting blood pressure is 140 mm Hg, my cholesterol level is 235 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 180 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 61 years old. My chest pain type is typical angina, my resting blood pressure is 134 mm Hg, my cholesterol level is 234 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 145 bpm, I dont have exercise-induced angina, and my ST depression is 2.6. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a woman of 57 years old. My chest pain type is asymptomatic, my resting blood pressure is 128 mm Hg, my cholesterol level is 303 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 159 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 71 years old. My chest pain type is asymptomatic, my resting blood pressure is 112 mm Hg, my cholesterol level is 149 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 125 bpm, I dont have exercise-induced angina, and my ST depression is 1.6. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 46 years old. My chest pain type is asymptomatic, my resting blood pressure is 140 mm Hg, my cholesterol level is 311 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 120 bpm, I have exercise-induced angina, and my ST depression is 1.8. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 53 years old. My chest pain type is asymptomatic, my resting blood pressure is 140 mm Hg, my cholesterol level is 203 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 155 bpm, I have exercise-induced angina, and my ST depression is 3.1. The slope of the ST segment is 3, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 64 years old. My chest pain type is typical angina, my resting blood pressure is 110 mm Hg, my cholesterol level is 211 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 144 bpm, I have exercise-induced angina, and my ST depression is 1.8. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 40 years old. My chest pain type is typical angina, my resting blood pressure is 140 mm Hg, my cholesterol level is 199 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 178 bpm, I have exercise-induced angina, and my ST depression is 1.4. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 67 years old. My chest pain type is asymptomatic, my resting blood pressure is 120 mm Hg, my cholesterol level is 229 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 129 bpm, I have exercise-induced angina, and my ST depression is 2.6. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 48 years old. My chest pain type is atypical angina, my resting blood pressure is 130 mm Hg, my cholesterol level is 245 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 180 bpm, I dont have exercise-induced angina, and my ST depression is 0.2. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 43 years old. My chest pain type is asymptomatic, my resting blood pressure is 115 mm Hg, my cholesterol level is 303 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 181 bpm, I dont have exercise-induced angina, and my ST depression is 1.2. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 47 years old. My chest pain type is asymptomatic, my resting blood pressure is 112 mm Hg, my cholesterol level is 204 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 143 bpm, I dont have exercise-induced angina, and my ST depression is 0.1. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 54 years old. My chest pain type is atypical angina, my resting blood pressure is 132 mm Hg, my cholesterol level is 288 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 159 bpm, I have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 48 years old. My chest pain type is non-anginal pain, my resting blood pressure is 130 mm Hg, my cholesterol level is 275 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 139 bpm, I dont have exercise-induced angina, and my ST depression is 0.2. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 46 years old. My chest pain type is asymptomatic, my resting blood pressure is 138 mm Hg, my cholesterol level is 243 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 152 bpm, I have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 51 years old. My chest pain type is non-anginal pain, my resting blood pressure is 120 mm Hg, my cholesterol level is 295 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 157 bpm, I dont have exercise-induced angina, and my ST depression is 0.6. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 58 years old. My chest pain type is non-anginal pain, my resting blood pressure is 112 mm Hg, my cholesterol level is 230 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 165 bpm, I dont have exercise-induced angina, and my ST depression is 2.5. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a woman of 71 years old. My chest pain type is non-anginal pain, my resting blood pressure is 110 mm Hg, my cholesterol level is 265 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 130 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 57 years old. My chest pain type is non-anginal pain, my resting blood pressure is 128 mm Hg, my cholesterol level is 229 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 150 bpm, I dont have exercise-induced angina, and my ST depression is 0.4. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 66 years old. My chest pain type is asymptomatic, my resting blood pressure is 160 mm Hg, my cholesterol level is 228 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 138 bpm, I dont have exercise-induced angina, and my ST depression is 2.3. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is fixed defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 37 years old. My chest pain type is non-anginal pain, my resting blood pressure is 120 mm Hg, my cholesterol level is 215 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 170 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 59 years old. My chest pain type is asymptomatic, my resting blood pressure is 170 mm Hg, my cholesterol level is 326 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 140 bpm, I have exercise-induced angina, and my ST depression is 3.4. The slope of the ST segment is 3, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 50 years old. My chest pain type is asymptomatic, my resting blood pressure is 144 mm Hg, my cholesterol level is 200 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 126 bpm, I have exercise-induced angina, and my ST depression is 0.9. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 48 years old. My chest pain type is asymptomatic, my resting blood pressure is 130 mm Hg, my cholesterol level is 256 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 150 bpm, I have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 61 years old. My chest pain type is asymptomatic, my resting blood pressure is 140 mm Hg, my cholesterol level is 207 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 138 bpm, I have exercise-induced angina, and my ST depression is 1.9. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 59 years old. My chest pain type is typical angina, my resting blood pressure is 160 mm Hg, my cholesterol level is 273 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 125 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 42 years old. My chest pain type is non-anginal pain, my resting blood pressure is 130 mm Hg, my cholesterol level is 180 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 150 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 48 years old. My chest pain type is asymptomatic, my resting blood pressure is 122 mm Hg, my cholesterol level is 222 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 186 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 40 years old. My chest pain type is asymptomatic, my resting blood pressure is 152 mm Hg, my cholesterol level is 223 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 181 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a woman of 62 years old. My chest pain type is asymptomatic, my resting blood pressure is 124 mm Hg, my cholesterol level is 209 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 163 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 44 years old. My chest pain type is non-anginal pain, my resting blood pressure is 130 mm Hg, my cholesterol level is 233 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 179 bpm, I have exercise-induced angina, and my ST depression is 0.4. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 46 years old. My chest pain type is atypical angina, my resting blood pressure is 101 mm Hg, my cholesterol level is 197 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 156 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 59 years old. My chest pain type is non-anginal pain, my resting blood pressure is 126 mm Hg, my cholesterol level is 218 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 134 bpm, I dont have exercise-induced angina, and my ST depression is 2.2. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is fixed defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 58 years old. My chest pain type is non-anginal pain, my resting blood pressure is 140 mm Hg, my cholesterol level is 211 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 165 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 49 years old. My chest pain type is non-anginal pain, my resting blood pressure is 118 mm Hg, my cholesterol level is 149 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 126 bpm, I dont have exercise-induced angina, and my ST depression is 0.8. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 3, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 44 years old. My chest pain type is asymptomatic, my resting blood pressure is 110 mm Hg, my cholesterol level is 197 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 177 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 66 years old. My chest pain type is atypical angina, my resting blood pressure is 160 mm Hg, my cholesterol level is 246 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 120 bpm, I have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 3, and my thallium scan result is fixed defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a woman of 65 years old. My chest pain type is asymptomatic, my resting blood pressure is 150 mm Hg, my cholesterol level is 225 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 114 bpm, I dont have exercise-induced angina, and my ST depression is 1.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 3, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 42 years old. My chest pain type is asymptomatic, my resting blood pressure is 136 mm Hg, my cholesterol level is 315 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 125 bpm, I have exercise-induced angina, and my ST depression is 1.8. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is fixed defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 52 years old. My chest pain type is atypical angina, my resting blood pressure is 128 mm Hg, my cholesterol level is 205 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 184 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 65 years old. My chest pain type is non-anginal pain, my resting blood pressure is 140 mm Hg, my cholesterol level is 417 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 157 bpm, I dont have exercise-induced angina, and my ST depression is 0.8. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 63 years old. My chest pain type is atypical angina, my resting blood pressure is 140 mm Hg, my cholesterol level is 195 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 179 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 45 years old. My chest pain type is atypical angina, my resting blood pressure is 130 mm Hg, my cholesterol level is 234 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 175 bpm, I dont have exercise-induced angina, and my ST depression is 0.6. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 41 years old. My chest pain type is atypical angina, my resting blood pressure is 105 mm Hg, my cholesterol level is 198 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 168 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 61 years old. My chest pain type is asymptomatic, my resting blood pressure is 138 mm Hg, my cholesterol level is 166 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 125 bpm, I have exercise-induced angina, and my ST depression is 3.6. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a woman of 60 years old. My chest pain type is non-anginal pain, my resting blood pressure is 120 mm Hg, my cholesterol level is 178 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 96 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 59 years old. My chest pain type is asymptomatic, my resting blood pressure is 174 mm Hg, my cholesterol level is 249 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 143 bpm, I have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 62 years old. My chest pain type is atypical angina, my resting blood pressure is 120 mm Hg, my cholesterol level is 281 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 103 bpm, I dont have exercise-induced angina, and my ST depression is 1.4. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 57 years old. My chest pain type is non-anginal pain, my resting blood pressure is 150 mm Hg, my cholesterol level is 126 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 173 bpm, I dont have exercise-induced angina, and my ST depression is 0.2. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 51 years old. My chest pain type is asymptomatic, my resting blood pressure is 130 mm Hg, my cholesterol level is 305 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 142 bpm, I have exercise-induced angina, and my ST depression is 1.2. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 44 years old. My chest pain type is non-anginal pain, my resting blood pressure is 120 mm Hg, my cholesterol level is 226 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 169 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 60 years old. My chest pain type is typical angina, my resting blood pressure is 150 mm Hg, my cholesterol level is 240 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 171 bpm, I dont have exercise-induced angina, and my ST depression is 0.9. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 63 years old. My chest pain type is typical angina, my resting blood pressure is 145 mm Hg, my cholesterol level is 233 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 150 bpm, I dont have exercise-induced angina, and my ST depression is 2.3. The slope of the ST segment is 3, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is fixed defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 57 years old. My chest pain type is asymptomatic, my resting blood pressure is 150 mm Hg, my cholesterol level is 276 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 112 bpm, I have exercise-induced angina, and my ST depression is 0.6. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is fixed defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 51 years old. My chest pain type is asymptomatic, my resting blood pressure is 140 mm Hg, my cholesterol level is 261 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 186 bpm, I have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 58 years old. My chest pain type is atypical angina, my resting blood pressure is 136 mm Hg, my cholesterol level is 319 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 152 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a woman of 44 years old. My chest pain type is non-anginal pain, my resting blood pressure is 118 mm Hg, my cholesterol level is 242 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 149 bpm, I dont have exercise-induced angina, and my ST depression is 0.3. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 47 years old. My chest pain type is non-anginal pain, my resting blood pressure is 108 mm Hg, my cholesterol level is 243 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 152 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 61 years old. My chest pain type is asymptomatic, my resting blood pressure is 120 mm Hg, my cholesterol level is 260 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 140 bpm, I have exercise-induced angina, and my ST depression is 3.6. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a woman of 57 years old. My chest pain type is asymptomatic, my resting blood pressure is 120 mm Hg, my cholesterol level is 354 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 163 bpm, I have exercise-induced angina, and my ST depression is 0.6. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 70 years old. My chest pain type is atypical angina, my resting blood pressure is 156 mm Hg, my cholesterol level is 245 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 143 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 76 years old. My chest pain type is non-anginal pain, my resting blood pressure is 140 mm Hg, my cholesterol level is 197 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 1, my maximum heart rate achieved is 116 bpm, I dont have exercise-induced angina, and my ST depression is 1.1. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 67 years old. My chest pain type is asymptomatic, my resting blood pressure is 106 mm Hg, my cholesterol level is 223 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 142 bpm, I dont have exercise-induced angina, and my ST depression is 0.3. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 45 years old. My chest pain type is asymptomatic, my resting blood pressure is 142 mm Hg, my cholesterol level is 309 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 147 bpm, I have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 3, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 45 years old. My chest pain type is asymptomatic, my resting blood pressure is 104 mm Hg, my cholesterol level is 208 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 148 bpm, I have exercise-induced angina, and my ST depression is 3.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 39 years old. My chest pain type is non-anginal pain, my resting blood pressure is 94 mm Hg, my cholesterol level is 199 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 179 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 42 years old. My chest pain type is non-anginal pain, my resting blood pressure is 120 mm Hg, my cholesterol level is 209 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 173 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 56 years old. My chest pain type is atypical angina, my resting blood pressure is 120 mm Hg, my cholesterol level is 236 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 178 bpm, I dont have exercise-induced angina, and my ST depression is 0.8. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 58 years old. My chest pain type is asymptomatic, my resting blood pressure is 146 mm Hg, my cholesterol level is 218 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 105 bpm, I dont have exercise-induced angina, and my ST depression is 2.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 35 years old. My chest pain type is asymptomatic, my resting blood pressure is 120 mm Hg, my cholesterol level is 198 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 130 bpm, I have exercise-induced angina, and my ST depression is 1.6. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 58 years old. My chest pain type is asymptomatic, my resting blood pressure is 150 mm Hg, my cholesterol level is 270 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 111 bpm, I have exercise-induced angina, and my ST depression is 0.8. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 41 years old. My chest pain type is non-anginal pain, my resting blood pressure is 130 mm Hg, my cholesterol level is 214 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 168 bpm, I dont have exercise-induced angina, and my ST depression is 2.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 57 years old. My chest pain type is asymptomatic, my resting blood pressure is 110 mm Hg, my cholesterol level is 201 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 126 bpm, I have exercise-induced angina, and my ST depression is 1.5. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is fixed defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 42 years old. My chest pain type is typical angina, my resting blood pressure is 148 mm Hg, my cholesterol level is 244 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 178 bpm, I dont have exercise-induced angina, and my ST depression is 0.8. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 62 years old. My chest pain type is atypical angina, my resting blood pressure is 128 mm Hg, my cholesterol level is 208 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 140 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 59 years old. My chest pain type is typical angina, my resting blood pressure is 178 mm Hg, my cholesterol level is 270 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 145 bpm, I dont have exercise-induced angina, and my ST depression is 4.2. The slope of the ST segment is 3, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 41 years old. My chest pain type is atypical angina, my resting blood pressure is 126 mm Hg, my cholesterol level is 306 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 163 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 50 years old. My chest pain type is asymptomatic, my resting blood pressure is 150 mm Hg, my cholesterol level is 243 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 128 bpm, I dont have exercise-induced angina, and my ST depression is 2.6. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 59 years old. My chest pain type is atypical angina, my resting blood pressure is 140 mm Hg, my cholesterol level is 221 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 164 bpm, I have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 61 years old. My chest pain type is asymptomatic, my resting blood pressure is 130 mm Hg, my cholesterol level is 330 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 169 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 54 years old. My chest pain type is asymptomatic, my resting blood pressure is 124 mm Hg, my cholesterol level is 266 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 109 bpm, I have exercise-induced angina, and my ST depression is 2.2. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 54 years old. My chest pain type is asymptomatic, my resting blood pressure is 110 mm Hg, my cholesterol level is 206 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 108 bpm, I have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 52 years old. My chest pain type is asymptomatic, my resting blood pressure is 125 mm Hg, my cholesterol level is 212 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 168 bpm, I dont have exercise-induced angina, and my ST depression is 1.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 47 years old. My chest pain type is asymptomatic, my resting blood pressure is 110 mm Hg, my cholesterol level is 275 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 118 bpm, I have exercise-induced angina, and my ST depression is 1.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 66 years old. My chest pain type is asymptomatic, my resting blood pressure is 120 mm Hg, my cholesterol level is 302 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 151 bpm, I dont have exercise-induced angina, and my ST depression is 0.4. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 58 years old. My chest pain type is asymptomatic, my resting blood pressure is 100 mm Hg, my cholesterol level is 234 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 156 bpm, I dont have exercise-induced angina, and my ST depression is 0.1. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a woman of 64 years old. My chest pain type is non-anginal pain, my resting blood pressure is 140 mm Hg, my cholesterol level is 313 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 133 bpm, I dont have exercise-induced angina, and my ST depression is 0.2. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 50 years old. My chest pain type is atypical angina, my resting blood pressure is 120 mm Hg, my cholesterol level is 244 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 162 bpm, I dont have exercise-induced angina, and my ST depression is 1.1. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 44 years old. My chest pain type is non-anginal pain, my resting blood pressure is 108 mm Hg, my cholesterol level is 141 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 175 bpm, I dont have exercise-induced angina, and my ST depression is 0.6. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 67 years old. My chest pain type is asymptomatic, my resting blood pressure is 120 mm Hg, my cholesterol level is 237 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 71 bpm, I dont have exercise-induced angina, and my ST depression is 1.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a woman of 49 years old. My chest pain type is asymptomatic, my resting blood pressure is 130 mm Hg, my cholesterol level is 269 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 163 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 57 years old. My chest pain type is asymptomatic, my resting blood pressure is 165 mm Hg, my cholesterol level is 289 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 124 bpm, I dont have exercise-induced angina, and my ST depression is 1.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 3, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 63 years old. My chest pain type is asymptomatic, my resting blood pressure is 130 mm Hg, my cholesterol level is 254 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 147 bpm, I dont have exercise-induced angina, and my ST depression is 1.4. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 48 years old. My chest pain type is asymptomatic, my resting blood pressure is 124 mm Hg, my cholesterol level is 274 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 166 bpm, I dont have exercise-induced angina, and my ST depression is 0.5. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 51 years old. My chest pain type is non-anginal pain, my resting blood pressure is 100 mm Hg, my cholesterol level is 222 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 143 bpm, I have exercise-induced angina, and my ST depression is 1.2. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 60 years old. My chest pain type is asymptomatic, my resting blood pressure is 150 mm Hg, my cholesterol level is 258 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 157 bpm, I dont have exercise-induced angina, and my ST depression is 2.6. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 59 years old. My chest pain type is asymptomatic, my resting blood pressure is 140 mm Hg, my cholesterol level is 177 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 162 bpm, I have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a woman of 45 years old. My chest pain type is atypical angina, my resting blood pressure is 112 mm Hg, my cholesterol level is 160 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 138 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 55 years old. My chest pain type is asymptomatic, my resting blood pressure is 180 mm Hg, my cholesterol level is 327 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 1, my maximum heart rate achieved is 117 bpm, I have exercise-induced angina, and my ST depression is 3.4. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 41 years old. My chest pain type is atypical angina, my resting blood pressure is 110 mm Hg, my cholesterol level is 235 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 153 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 60 years old. My chest pain type is asymptomatic, my resting blood pressure is 158 mm Hg, my cholesterol level is 305 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 161 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a woman of 54 years old. My chest pain type is non-anginal pain, my resting blood pressure is 135 mm Hg, my cholesterol level is 304 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 170 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 42 years old. My chest pain type is atypical angina, my resting blood pressure is 120 mm Hg, my cholesterol level is 295 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 162 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 49 years old. My chest pain type is atypical angina, my resting blood pressure is 134 mm Hg, my cholesterol level is 271 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 162 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 46 years old. My chest pain type is asymptomatic, my resting blood pressure is 120 mm Hg, my cholesterol level is 249 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 144 bpm, I dont have exercise-induced angina, and my ST depression is 0.8. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a woman of 56 years old. My chest pain type is asymptomatic, my resting blood pressure is 200 mm Hg, my cholesterol level is 288 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 133 bpm, I have exercise-induced angina, and my ST depression is 4.0. The slope of the ST segment is 3, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a woman of 66 years old. My chest pain type is typical angina, my resting blood pressure is 150 mm Hg, my cholesterol level is 226 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 114 bpm, I dont have exercise-induced angina, and my ST depression is 2.6. The slope of the ST segment is 3, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 56 years old. My chest pain type is asymptomatic, my resting blood pressure is 130 mm Hg, my cholesterol level is 283 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 103 bpm, I have exercise-induced angina, and my ST depression is 1.6. The slope of the ST segment is 3, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 49 years old. My chest pain type is non-anginal pain, my resting blood pressure is 120 mm Hg, my cholesterol level is 188 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 139 bpm, I dont have exercise-induced angina, and my ST depression is 2.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 3, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 54 years old. My chest pain type is asymptomatic, my resting blood pressure is 122 mm Hg, my cholesterol level is 286 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 116 bpm, I have exercise-induced angina, and my ST depression is 3.2. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 57 years old. My chest pain type is asymptomatic, my resting blood pressure is 152 mm Hg, my cholesterol level is 274 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 88 bpm, I have exercise-induced angina, and my ST depression is 1.2. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a woman of 65 years old. My chest pain type is non-anginal pain, my resting blood pressure is 160 mm Hg, my cholesterol level is 360 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 151 bpm, I dont have exercise-induced angina, and my ST depression is 0.8. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 54 years old. My chest pain type is non-anginal pain, my resting blood pressure is 125 mm Hg, my cholesterol level is 273 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 152 bpm, I dont have exercise-induced angina, and my ST depression is 0.5. The slope of the ST segment is 3, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 54 years old. My chest pain type is non-anginal pain, my resting blood pressure is 160 mm Hg, my cholesterol level is 201 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 163 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 62 years old. My chest pain type is asymptomatic, my resting blood pressure is 120 mm Hg, my cholesterol level is 267 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 99 bpm, I have exercise-induced angina, and my ST depression is 1.8. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a woman of 52 years old. My chest pain type is non-anginal pain, my resting blood pressure is 136 mm Hg, my cholesterol level is 196 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 169 bpm, I dont have exercise-induced angina, and my ST depression is 0.1. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 52 years old. My chest pain type is atypical angina, my resting blood pressure is 134 mm Hg, my cholesterol level is 201 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 158 bpm, I dont have exercise-induced angina, and my ST depression is 0.8. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 60 years old. My chest pain type is asymptomatic, my resting blood pressure is 117 mm Hg, my cholesterol level is 230 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 160 bpm, I have exercise-induced angina, and my ST depression is 1.4. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a woman of 63 years old. My chest pain type is asymptomatic, my resting blood pressure is 108 mm Hg, my cholesterol level is 269 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 169 bpm, I have exercise-induced angina, and my ST depression is 1.8. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 66 years old. My chest pain type is asymptomatic, my resting blood pressure is 112 mm Hg, my cholesterol level is 212 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 132 bpm, I have exercise-induced angina, and my ST depression is 0.1. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 42 years old. My chest pain type is asymptomatic, my resting blood pressure is 140 mm Hg, my cholesterol level is 226 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 178 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 64 years old. My chest pain type is asymptomatic, my resting blood pressure is 120 mm Hg, my cholesterol level is 246 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 96 bpm, I have exercise-induced angina, and my ST depression is 2.2. The slope of the ST segment is 3, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 54 years old. My chest pain type is non-anginal pain, my resting blood pressure is 150 mm Hg, my cholesterol level is 232 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 165 bpm, I dont have exercise-induced angina, and my ST depression is 1.6. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 46 years old. My chest pain type is non-anginal pain, my resting blood pressure is 142 mm Hg, my cholesterol level is 177 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 160 bpm, I have exercise-induced angina, and my ST depression is 1.4. The slope of the ST segment is 3, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 67 years old. My chest pain type is non-anginal pain, my resting blood pressure is 152 mm Hg, my cholesterol level is 277 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 172 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 56 years old. My chest pain type is asymptomatic, my resting blood pressure is 125 mm Hg, my cholesterol level is 249 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 144 bpm, I have exercise-induced angina, and my ST depression is 1.2. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a woman of 34 years old. My chest pain type is atypical angina, my resting blood pressure is 118 mm Hg, my cholesterol level is 210 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 192 bpm, I dont have exercise-induced angina, and my ST depression is 0.7. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 57 years old. My chest pain type is asymptomatic, my resting blood pressure is 132 mm Hg, my cholesterol level is 207 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 168 bpm, I have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 64 years old. My chest pain type is asymptomatic, my resting blood pressure is 145 mm Hg, my cholesterol level is 212 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 132 bpm, I dont have exercise-induced angina, and my ST depression is 2.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is fixed defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 59 years old. My chest pain type is asymptomatic, my resting blood pressure is 138 mm Hg, my cholesterol level is 271 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 182 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 50 years old. My chest pain type is non-anginal pain, my resting blood pressure is 140 mm Hg, my cholesterol level is 233 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 163 bpm, I dont have exercise-induced angina, and my ST depression is 0.6. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 51 years old. My chest pain type is typical angina, my resting blood pressure is 125 mm Hg, my cholesterol level is 213 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 125 bpm, I have exercise-induced angina, and my ST depression is 1.4. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 54 years old. My chest pain type is atypical angina, my resting blood pressure is 192 mm Hg, my cholesterol level is 283 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 195 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 53 years old. My chest pain type is asymptomatic, my resting blood pressure is 123 mm Hg, my cholesterol level is 282 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 95 bpm, I have exercise-induced angina, and my ST depression is 2.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 52 years old. My chest pain type is asymptomatic, my resting blood pressure is 112 mm Hg, my cholesterol level is 230 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 160 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 40 years old. My chest pain type is asymptomatic, my resting blood pressure is 110 mm Hg, my cholesterol level is 167 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 114 bpm, I have exercise-induced angina, and my ST depression is 2.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 58 years old. My chest pain type is non-anginal pain, my resting blood pressure is 132 mm Hg, my cholesterol level is 224 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 173 bpm, I dont have exercise-induced angina, and my ST depression is 3.2. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a woman of 41 years old. My chest pain type is non-anginal pain, my resting blood pressure is 112 mm Hg, my cholesterol level is 268 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 172 bpm, I have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 41 years old. My chest pain type is non-anginal pain, my resting blood pressure is 112 mm Hg, my cholesterol level is 250 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 179 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 50 years old. My chest pain type is non-anginal pain, my resting blood pressure is 120 mm Hg, my cholesterol level is 219 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 158 bpm, I dont have exercise-induced angina, and my ST depression is 1.6. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 54 years old. My chest pain type is non-anginal pain, my resting blood pressure is 108 mm Hg, my cholesterol level is 267 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 167 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 64 years old. My chest pain type is asymptomatic, my resting blood pressure is 130 mm Hg, my cholesterol level is 303 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 122 bpm, I dont have exercise-induced angina, and my ST depression is 2.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 51 years old. My chest pain type is non-anginal pain, my resting blood pressure is 130 mm Hg, my cholesterol level is 256 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 149 bpm, I dont have exercise-induced angina, and my ST depression is 0.5. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 46 years old. My chest pain type is atypical angina, my resting blood pressure is 105 mm Hg, my cholesterol level is 204 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 172 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 55 years old. My chest pain type is asymptomatic, my resting blood pressure is 140 mm Hg, my cholesterol level is 217 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 111 bpm, I have exercise-induced angina, and my ST depression is 5.6. The slope of the ST segment is 3, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 45 years old. My chest pain type is atypical angina, my resting blood pressure is 128 mm Hg, my cholesterol level is 308 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 170 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 56 years old. My chest pain type is typical angina, my resting blood pressure is 120 mm Hg, my cholesterol level is 193 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 162 bpm, I dont have exercise-induced angina, and my ST depression is 1.9. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 66 years old. My chest pain type is asymptomatic, my resting blood pressure is 178 mm Hg, my cholesterol level is 228 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 165 bpm, I have exercise-induced angina, and my ST depression is 1.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 38 years old. My chest pain type is typical angina, my resting blood pressure is 120 mm Hg, my cholesterol level is 231 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 182 bpm, I have exercise-induced angina, and my ST depression is 3.8. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a woman of 62 years old. My chest pain type is asymptomatic, my resting blood pressure is 150 mm Hg, my cholesterol level is 244 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 154 bpm, I have exercise-induced angina, and my ST depression is 1.4. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 55 years old. My chest pain type is atypical angina, my resting blood pressure is 130 mm Hg, my cholesterol level is 262 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 155 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 58 years old. My chest pain type is asymptomatic, my resting blood pressure is 128 mm Hg, my cholesterol level is 259 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 130 bpm, I have exercise-induced angina, and my ST depression is 3.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 43 years old. My chest pain type is asymptomatic, my resting blood pressure is 110 mm Hg, my cholesterol level is 211 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 161 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 64 years old. My chest pain type is asymptomatic, my resting blood pressure is 180 mm Hg, my cholesterol level is 325 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 154 bpm, I have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 50 years old. My chest pain type is asymptomatic, my resting blood pressure is 110 mm Hg, my cholesterol level is 254 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 159 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 53 years old. My chest pain type is non-anginal pain, my resting blood pressure is 130 mm Hg, my cholesterol level is 197 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 152 bpm, I dont have exercise-induced angina, and my ST depression is 1.2. The slope of the ST segment is 3, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 45 years old. My chest pain type is asymptomatic, my resting blood pressure is 138 mm Hg, my cholesterol level is 236 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 152 bpm, I have exercise-induced angina, and my ST depression is 0.2. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 65 years old. My chest pain type is typical angina, my resting blood pressure is 138 mm Hg, my cholesterol level is 282 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 174 bpm, I dont have exercise-induced angina, and my ST depression is 1.4. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 69 years old. My chest pain type is typical angina, my resting blood pressure is 160 mm Hg, my cholesterol level is 234 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 131 bpm, I dont have exercise-induced angina, and my ST depression is 0.1. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 69 years old. My chest pain type is non-anginal pain, my resting blood pressure is 140 mm Hg, my cholesterol level is 254 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 146 bpm, I dont have exercise-induced angina, and my ST depression is 2.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 3, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 67 years old. My chest pain type is asymptomatic, my resting blood pressure is 100 mm Hg, my cholesterol level is 299 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 125 bpm, I have exercise-induced angina, and my ST depression is 0.9. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a woman of 68 years old. My chest pain type is non-anginal pain, my resting blood pressure is 120 mm Hg, my cholesterol level is 211 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 115 bpm, I dont have exercise-induced angina, and my ST depression is 1.5. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 34 years old. My chest pain type is typical angina, my resting blood pressure is 118 mm Hg, my cholesterol level is 182 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 174 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 62 years old. My chest pain type is asymptomatic, my resting blood pressure is 138 mm Hg, my cholesterol level is 294 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 106 bpm, I dont have exercise-induced angina, and my ST depression is 1.9. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 3, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 51 years old. My chest pain type is asymptomatic, my resting blood pressure is 140 mm Hg, my cholesterol level is 298 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 122 bpm, I have exercise-induced angina, and my ST depression is 4.2. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 3, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 46 years old. My chest pain type is non-anginal pain, my resting blood pressure is 150 mm Hg, my cholesterol level is 231 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 147 bpm, I dont have exercise-induced angina, and my ST depression is 3.6. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 67 years old. My chest pain type is asymptomatic, my resting blood pressure is 125 mm Hg, my cholesterol level is 254 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 163 bpm, I dont have exercise-induced angina, and my ST depression is 0.2. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 50 years old. My chest pain type is non-anginal pain, my resting blood pressure is 129 mm Hg, my cholesterol level is 196 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 163 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 42 years old. My chest pain type is non-anginal pain, my resting blood pressure is 120 mm Hg, my cholesterol level is 240 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 194 bpm, I dont have exercise-induced angina, and my ST depression is 0.8. The slope of the ST segment is 3, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 56 years old. My chest pain type is asymptomatic, my resting blood pressure is 134 mm Hg, my cholesterol level is 409 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 150 bpm, I have exercise-induced angina, and my ST depression is 1.9. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 41 years old. My chest pain type is asymptomatic, my resting blood pressure is 110 mm Hg, my cholesterol level is 172 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 158 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a woman of 42 years old. My chest pain type is asymptomatic, my resting blood pressure is 102 mm Hg, my cholesterol level is 265 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 122 bpm, I dont have exercise-induced angina, and my ST depression is 0.6. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 53 years old. My chest pain type is non-anginal pain, my resting blood pressure is 130 mm Hg, my cholesterol level is 246 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 173 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 3, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 43 years old. My chest pain type is non-anginal pain, my resting blood pressure is 130 mm Hg, my cholesterol level is 315 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 162 bpm, I dont have exercise-induced angina, and my ST depression is 1.9. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 56 years old. My chest pain type is asymptomatic, my resting blood pressure is 132 mm Hg, my cholesterol level is 184 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 105 bpm, I have exercise-induced angina, and my ST depression is 2.1. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is fixed defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 52 years old. My chest pain type is asymptomatic, my resting blood pressure is 108 mm Hg, my cholesterol level is 233 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 147 bpm, I dont have exercise-induced angina, and my ST depression is 0.1. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 3, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 62 years old. My chest pain type is asymptomatic, my resting blood pressure is 140 mm Hg, my cholesterol level is 394 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 157 bpm, I dont have exercise-induced angina, and my ST depression is 1.2. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 70 years old. My chest pain type is non-anginal pain, my resting blood pressure is 160 mm Hg, my cholesterol level is 269 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 112 bpm, I have exercise-induced angina, and my ST depression is 2.9. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 54 years old. My chest pain type is asymptomatic, my resting blood pressure is 140 mm Hg, my cholesterol level is 239 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 160 bpm, I dont have exercise-induced angina, and my ST depression is 1.2. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 70 years old. My chest pain type is asymptomatic, my resting blood pressure is 145 mm Hg, my cholesterol level is 174 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 125 bpm, I have exercise-induced angina, and my ST depression is 2.6. The slope of the ST segment is 3, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 54 years old. My chest pain type is atypical angina, my resting blood pressure is 108 mm Hg, my cholesterol level is 309 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 156 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 35 years old. My chest pain type is asymptomatic, my resting blood pressure is 126 mm Hg, my cholesterol level is 282 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 156 bpm, I have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 48 years old. My chest pain type is non-anginal pain, my resting blood pressure is 124 mm Hg, my cholesterol level is 255 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 175 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 55 years old. My chest pain type is atypical angina, my resting blood pressure is 135 mm Hg, my cholesterol level is 250 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 161 bpm, I dont have exercise-induced angina, and my ST depression is 1.4. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 58 years old. My chest pain type is asymptomatic, my resting blood pressure is 100 mm Hg, my cholesterol level is 248 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 122 bpm, I dont have exercise-induced angina, and my ST depression is 1.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 54 years old. My chest pain type is non-anginal pain, my resting blood pressure is 110 mm Hg, my cholesterol level is 214 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 158 bpm, I dont have exercise-induced angina, and my ST depression is 1.6. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 69 years old. My chest pain type is typical angina, my resting blood pressure is 140 mm Hg, my cholesterol level is 239 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 151 bpm, I dont have exercise-induced angina, and my ST depression is 1.8. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 77 years old. My chest pain type is asymptomatic, my resting blood pressure is 125 mm Hg, my cholesterol level is 304 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 162 bpm, I have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 3, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 68 years old. My chest pain type is non-anginal pain, my resting blood pressure is 118 mm Hg, my cholesterol level is 277 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 151 bpm, I dont have exercise-induced angina, and my ST depression is 1.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 58 years old. My chest pain type is asymptomatic, my resting blood pressure is 125 mm Hg, my cholesterol level is 300 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 171 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 60 years old. My chest pain type is asymptomatic, my resting blood pressure is 125 mm Hg, my cholesterol level is 258 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 141 bpm, I have exercise-induced angina, and my ST depression is 2.8. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 51 years old. My chest pain type is asymptomatic, my resting blood pressure is 140 mm Hg, my cholesterol level is 299 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 173 bpm, I have exercise-induced angina, and my ST depression is 1.6. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 55 years old. My chest pain type is asymptomatic, my resting blood pressure is 160 mm Hg, my cholesterol level is 289 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 145 bpm, I have exercise-induced angina, and my ST depression is 0.8. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 52 years old. My chest pain type is typical angina, my resting blood pressure is 152 mm Hg, my cholesterol level is 298 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 178 bpm, I dont have exercise-induced angina, and my ST depression is 1.2. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 60 years old. My chest pain type is non-anginal pain, my resting blood pressure is 102 mm Hg, my cholesterol level is 318 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 160 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 58 years old. My chest pain type is non-anginal pain, my resting blood pressure is 105 mm Hg, my cholesterol level is 240 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 154 bpm, I have exercise-induced angina, and my ST depression is 0.6. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 64 years old. My chest pain type is non-anginal pain, my resting blood pressure is 125 mm Hg, my cholesterol level is 309 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 131 bpm, I have exercise-induced angina, and my ST depression is 1.8. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 37 years old. My chest pain type is non-anginal pain, my resting blood pressure is 130 mm Hg, my cholesterol level is 250 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 187 bpm, I dont have exercise-induced angina, and my ST depression is 3.5. The slope of the ST segment is 3, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 59 years old. My chest pain type is typical angina, my resting blood pressure is 170 mm Hg, my cholesterol level is 288 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 159 bpm, I dont have exercise-induced angina, and my ST depression is 0.2. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 51 years old. My chest pain type is non-anginal pain, my resting blood pressure is 125 mm Hg, my cholesterol level is 245 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 166 bpm, I dont have exercise-induced angina, and my ST depression is 2.4. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 43 years old. My chest pain type is non-anginal pain, my resting blood pressure is 122 mm Hg, my cholesterol level is 213 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 165 bpm, I dont have exercise-induced angina, and my ST depression is 0.2. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 58 years old. My chest pain type is asymptomatic, my resting blood pressure is 128 mm Hg, my cholesterol level is 216 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 131 bpm, I have exercise-induced angina, and my ST depression is 2.2. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 3, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 29 years old. My chest pain type is atypical angina, my resting blood pressure is 130 mm Hg, my cholesterol level is 204 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 202 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 41 years old. My chest pain type is atypical angina, my resting blood pressure is 130 mm Hg, my cholesterol level is 204 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 172 bpm, I dont have exercise-induced angina, and my ST depression is 1.4. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 63 years old. My chest pain type is non-anginal pain, my resting blood pressure is 135 mm Hg, my cholesterol level is 252 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 172 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 51 years old. My chest pain type is non-anginal pain, my resting blood pressure is 94 mm Hg, my cholesterol level is 227 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 154 bpm, I have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 54 years old. My chest pain type is non-anginal pain, my resting blood pressure is 120 mm Hg, my cholesterol level is 258 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 147 bpm, I dont have exercise-induced angina, and my ST depression is 0.4. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 44 years old. My chest pain type is atypical angina, my resting blood pressure is 120 mm Hg, my cholesterol level is 220 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 170 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 54 years old. My chest pain type is asymptomatic, my resting blood pressure is 110 mm Hg, my cholesterol level is 239 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 126 bpm, I have exercise-induced angina, and my ST depression is 2.8. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 65 years old. My chest pain type is asymptomatic, my resting blood pressure is 135 mm Hg, my cholesterol level is 254 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 127 bpm, I dont have exercise-induced angina, and my ST depression is 2.8. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 57 years old. My chest pain type is non-anginal pain, my resting blood pressure is 150 mm Hg, my cholesterol level is 168 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 174 bpm, I dont have exercise-induced angina, and my ST depression is 1.6. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 63 years old. My chest pain type is asymptomatic, my resting blood pressure is 130 mm Hg, my cholesterol level is 330 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 132 bpm, I have exercise-induced angina, and my ST depression is 1.8. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 3, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a woman of 35 years old. My chest pain type is asymptomatic, my resting blood pressure is 138 mm Hg, my cholesterol level is 183 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 182 bpm, I dont have exercise-induced angina, and my ST depression is 1.4. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 41 years old. My chest pain type is atypical angina, my resting blood pressure is 135 mm Hg, my cholesterol level is 203 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 132 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is fixed defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 62 years old. My chest pain type is non-anginal pain, my resting blood pressure is 130 mm Hg, my cholesterol level is 263 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 97 bpm, I dont have exercise-induced angina, and my ST depression is 1.2. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a woman of 43 years old. My chest pain type is asymptomatic, my resting blood pressure is 132 mm Hg, my cholesterol level is 341 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 136 bpm, I have exercise-induced angina, and my ST depression is 3.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a woman of 58 years old. My chest pain type is typical angina, my resting blood pressure is 150 mm Hg, my cholesterol level is 283 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 162 bpm, I dont have exercise-induced angina, and my ST depression is 1.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 52 years old. My chest pain type is typical angina, my resting blood pressure is 118 mm Hg, my cholesterol level is 186 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 190 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is fixed defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 61 years old. My chest pain type is asymptomatic, my resting blood pressure is 145 mm Hg, my cholesterol level is 307 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 146 bpm, I have exercise-induced angina, and my ST depression is 1.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 39 years old. My chest pain type is asymptomatic, my resting blood pressure is 118 mm Hg, my cholesterol level is 219 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 140 bpm, I dont have exercise-induced angina, and my ST depression is 1.2. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 45 years old. My chest pain type is asymptomatic, my resting blood pressure is 115 mm Hg, my cholesterol level is 260 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 185 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 52 years old. My chest pain type is asymptomatic, my resting blood pressure is 128 mm Hg, my cholesterol level is 255 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 161 bpm, I have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 62 years old. My chest pain type is non-anginal pain, my resting blood pressure is 130 mm Hg, my cholesterol level is 231 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 146 bpm, I dont have exercise-induced angina, and my ST depression is 1.8. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 3, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 62 years old. My chest pain type is asymptomatic, my resting blood pressure is 160 mm Hg, my cholesterol level is 164 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 145 bpm, I dont have exercise-induced angina, and my ST depression is 6.2. The slope of the ST segment is 3, the number of major vessels colored by fluoroscopy is 3, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a woman of 53 years old. My chest pain type is asymptomatic, my resting blood pressure is 138 mm Hg, my cholesterol level is 234 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 160 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 43 years old. My chest pain type is asymptomatic, my resting blood pressure is 120 mm Hg, my cholesterol level is 177 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 120 bpm, I have exercise-induced angina, and my ST depression is 2.5. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 47 years old. My chest pain type is non-anginal pain, my resting blood pressure is 138 mm Hg, my cholesterol level is 257 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 156 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 52 years old. My chest pain type is atypical angina, my resting blood pressure is 120 mm Hg, my cholesterol level is 325 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 172 bpm, I dont have exercise-induced angina, and my ST depression is 0.2. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 68 years old. My chest pain type is non-anginal pain, my resting blood pressure is 180 mm Hg, my cholesterol level is 274 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 150 bpm, I have exercise-induced angina, and my ST depression is 1.6. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 39 years old. My chest pain type is non-anginal pain, my resting blood pressure is 140 mm Hg, my cholesterol level is 321 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 182 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 53 years old. My chest pain type is asymptomatic, my resting blood pressure is 130 mm Hg, my cholesterol level is 264 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 143 bpm, I dont have exercise-induced angina, and my ST depression is 0.4. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 62 years old. My chest pain type is asymptomatic, my resting blood pressure is 140 mm Hg, my cholesterol level is 268 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 160 bpm, I dont have exercise-induced angina, and my ST depression is 3.6. The slope of the ST segment is 3, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a woman of 51 years old. My chest pain type is non-anginal pain, my resting blood pressure is 140 mm Hg, my cholesterol level is 308 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 142 bpm, I dont have exercise-induced angina, and my ST depression is 1.5. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 60 years old. My chest pain type is asymptomatic, my resting blood pressure is 130 mm Hg, my cholesterol level is 253 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 144 bpm, I have exercise-induced angina, and my ST depression is 1.4. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 65 years old. My chest pain type is asymptomatic, my resting blood pressure is 110 mm Hg, my cholesterol level is 248 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 158 bpm, I dont have exercise-induced angina, and my ST depression is 0.6. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is fixed defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a woman of 65 years old. My chest pain type is non-anginal pain, my resting blood pressure is 155 mm Hg, my cholesterol level is 269 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 148 bpm, I dont have exercise-induced angina, and my ST depression is 0.8. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 60 years old. My chest pain type is non-anginal pain, my resting blood pressure is 140 mm Hg, my cholesterol level is 185 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 155 bpm, I dont have exercise-induced angina, and my ST depression is 3.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 60 years old. My chest pain type is asymptomatic, my resting blood pressure is 145 mm Hg, my cholesterol level is 282 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 142 bpm, I have exercise-induced angina, and my ST depression is 2.8. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 54 years old. My chest pain type is asymptomatic, my resting blood pressure is 120 mm Hg, my cholesterol level is 188 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 113 bpm, I dont have exercise-induced angina, and my ST depression is 1.4. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 44 years old. My chest pain type is atypical angina, my resting blood pressure is 130 mm Hg, my cholesterol level is 219 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 188 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 44 years old. My chest pain type is asymptomatic, my resting blood pressure is 112 mm Hg, my cholesterol level is 290 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 153 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 51 years old. My chest pain type is non-anginal pain, my resting blood pressure is 110 mm Hg, my cholesterol level is 175 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 123 bpm, I dont have exercise-induced angina, and my ST depression is 0.6. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 59 years old. My chest pain type is non-anginal pain, my resting blood pressure is 150 mm Hg, my cholesterol level is 212 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 157 bpm, I dont have exercise-induced angina, and my ST depression is 1.6. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 71 years old. My chest pain type is atypical angina, my resting blood pressure is 160 mm Hg, my cholesterol level is 302 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 162 bpm, I dont have exercise-induced angina, and my ST depression is 0.4. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 61 years old. My chest pain type is non-anginal pain, my resting blood pressure is 150 mm Hg, my cholesterol level is 243 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 137 bpm, I have exercise-induced angina, and my ST depression is 1.0. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 55 years old. My chest pain type is asymptomatic, my resting blood pressure is 132 mm Hg, my cholesterol level is 353 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 132 bpm, I have exercise-induced angina, and my ST depression is 1.2. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 1, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 64 years old. My chest pain type is non-anginal pain, my resting blood pressure is 140 mm Hg, my cholesterol level is 335 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 158 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 43 years old. My chest pain type is asymptomatic, my resting blood pressure is 150 mm Hg, my cholesterol level is 247 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 171 bpm, I dont have exercise-induced angina, and my ST depression is 1.5. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 58 years old. My chest pain type is non-anginal pain, my resting blood pressure is 120 mm Hg, my cholesterol level is 340 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 172 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 60 years old. My chest pain type is asymptomatic, my resting blood pressure is 130 mm Hg, my cholesterol level is 206 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 132 bpm, I have exercise-induced angina, and my ST depression is 2.4. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 2, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 58 years old. My chest pain type is atypical angina, my resting blood pressure is 120 mm Hg, my cholesterol level is 284 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 160 bpm, I dont have exercise-induced angina, and my ST depression is 1.8. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 49 years old. My chest pain type is atypical angina, my resting blood pressure is 130 mm Hg, my cholesterol level is 266 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 171 bpm, I dont have exercise-induced angina, and my ST depression is 0.6. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 48 years old. My chest pain type is atypical angina, my resting blood pressure is 110 mm Hg, my cholesterol level is 229 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 168 bpm, I dont have exercise-induced angina, and my ST depression is 1.0. The slope of the ST segment is 3, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    },
+    {
+        "input": "I am a man of 52 years old. My chest pain type is non-anginal pain, my resting blood pressure is 172 mm Hg, my cholesterol level is 199 mg/dl, my fasting blood sugar is above 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 162 bpm, I dont have exercise-induced angina, and my ST depression is 0.5. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 44 years old. My chest pain type is atypical angina, my resting blood pressure is 120 mm Hg, my cholesterol level is 263 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 173 bpm, I dont have exercise-induced angina, and my ST depression is 0.0. The slope of the ST segment is 1, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is reversible defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a woman of 56 years old. My chest pain type is atypical angina, my resting blood pressure is 140 mm Hg, my cholesterol level is 294 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 153 bpm, I dont have exercise-induced angina, and my ST depression is 1.3. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 57 years old. My chest pain type is asymptomatic, my resting blood pressure is 140 mm Hg, my cholesterol level is 192 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 0, my maximum heart rate achieved is 148 bpm, I dont have exercise-induced angina, and my ST depression is 0.4. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 0, and my thallium scan result is fixed defect.",
+        "output": "Based on the provided information, you do not have heart disease."
+    },
+    {
+        "input": "I am a man of 67 years old. My chest pain type is asymptomatic, my resting blood pressure is 160 mm Hg, my cholesterol level is 286 mg/dl, my fasting blood sugar is below 120 mg/dl, the results of my EKG are 2, my maximum heart rate achieved is 108 bpm, I have exercise-induced angina, and my ST depression is 1.5. The slope of the ST segment is 2, the number of major vessels colored by fluoroscopy is 3, and my thallium scan result is normal.",
+        "output": "Based on the provided information, you are suffering from heart disease."
+    }
+]
