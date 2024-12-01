@@ -53,10 +53,5 @@ Heart disease is one of the leading causes of mortality worldwide. Many patients
 
 ---
 
-## License
-[MIT License](LICENSE)
-
----
-
 ## Quote
 _"The greatest wealth is health." – Virgil_
