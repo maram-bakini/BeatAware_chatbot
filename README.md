@@ -47,7 +47,7 @@ Heart disease is one of the leading causes of mortality worldwide. Many patients
 ---
 
 ## How to Run the Application
-1. Access the chatbot on Kaggle (add a link here if applicable).
+1. Access the chatbot on Kaggle.
 2. Launch the Streamlit application to interact with the chatbot.
 3. Input symptoms to receive diagnostic insights and recommendations.
 
